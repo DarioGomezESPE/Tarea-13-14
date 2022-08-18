@@ -41,9 +41,9 @@ Comprender los temas trece y catorce del libro Principios de Circuitos Eléctric
 
 5.CONCLUSIONES
 
-• Los circuitos en serie poseen una sola trayectoria para la corriente, y si alguno de los elementos se quema el circuito entero deja de funcionar, ademas en circuitos serie se puede aplicar ley de ohm, leyes de Kirchoff y ecuaciones de potencia, por otra parte la localización de fallas se pueden presentar un cortocircuito y circuito abierto debido a un elemento dañado.
+• Se puede concluir que en un inductor la reactancia de este depende de la frecuencia, entre mas frecuencia mas inductancia, el comporatamiento de inductor dependera de que tipo de corriente es sometido, existen diferentes tipos de inductores y encapsulados. Posee caracteristicas físicas como el nucelo, el cable que forma parte del boninado, el área el transversal y la permeabilidad, ademas al esta en un circuito RL la corriente depende del tiempo en el que se carga o descarga.
 
-• Los circuitos en paralelo poseen diferentes tratectorias para la corriente y su voltaje se matiene igual para todos los elementos en paralelo, al igual que al circuito serie se puede aplicar ley de ohm, leyes de kirchoff y ecuaciones de potencia, referente a la localización de fallas cuando un circuito paralelo un elemento se quema los demas elementos siguen funcionando, igualmente se pueden presentar cortocircuitos y circuitos abiertos.
+• Se puede concluir que en un trasformador esta formado por dos o mas inductores que tienen la capacidad e subir o bajar el voltaje de una fuente dependiendo del número de vueltas tanto del secundario y del primario, ademas dependiendo de la relacion n que tengan entre estos, ademas de esto poseen una relación de corriente entre los dos bobinados, y por ultimo el voltaje tambien se relacionan en funcion de las vueltas, analizando estos dos factores se determina que las potencias son las mismas a los dos lados del transformador. 
 
 6.BIBLIOGRAFÍA
 
